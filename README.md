@@ -4,13 +4,14 @@ This is a game I built for a Mintbean hackathon. I used primarily JavaScript and
 A direct link to the game can be found [here](https://kaboom-invaders-game.netlify.app/).
 
 ## **Deployment Instructions**
-1. No need to install any dependencies! Just run with your server of choice, like (http-server)[https://github.com/http-party/http-server] or Live Server in VSCode ([repo here](https://github.com/ritwickdey/vscode-live-server))
+1. No need to install any dependencies! Just run with your server of choice, like [http-server](https://github.com/http-party/http-server) or Live Server in VSCode ([repo here](https://github.com/ritwickdey/vscode-live-server))
 
 2. Play!
 
 ## **Developed by Amadeusz Sepko**
 
 [GitHub](https://github.com/amad3usz)
+
 [LinkedIn](https://www.linkedin.com/in/amad3usz/)
 
 
